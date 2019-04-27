@@ -2,4 +2,4 @@
 
 Competition Link: https://www.kaggle.com/c/imet-2019-fgvc6/overview
 
-To run demo, create a new kernel and add inceptionresnet dataset.
+To run the demo, create a new kernel and add inceptionresnetV2 dataset.
