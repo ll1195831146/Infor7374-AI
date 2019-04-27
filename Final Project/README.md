@@ -1,2 +1,2 @@
-# Infor7374-AI Final Project
+# Info7374-AI Final Project
 
